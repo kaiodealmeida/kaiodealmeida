@@ -11,8 +11,7 @@ Main Skills:
 - Django Framework;
 - AWS EC2 Enviroment;
 - HTML & CSS;
-- Bootstrap;
-- AWS EC2.
+- Bootstrap.
 
 I have some familiarity:
 
