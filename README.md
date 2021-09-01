@@ -6,7 +6,7 @@
 Main Skills:
 
 - Python 3;
-- SQL Advanced with PostgreSQL;
+- SQL;
 - API Rest with Django REST;
 - Django Framework;
 - AWS EC2 Enviroment;
