@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaiodealmeida
-- 👀 I’m interested in Python Development.
+- 👀 I’m interested in Data Engineering and Data Science.
 - 🌱 I’m currently learning Python, AWS Certification, Django and API Rest.
 
 
