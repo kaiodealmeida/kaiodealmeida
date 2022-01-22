@@ -8,7 +8,8 @@ Main Skills:
  - Django, Fast API, Pandas, Pickle, Numpy, Sklearn;
 - Dart:
  - Flutter;
-- SQL
+- SQL;
+- MLOps.
 
 
 
